@@ -1,0 +1,5 @@
+group_name, point_name, lh_x, lh_y, rb_x, rb_y
+m_e,start_air,4450,1190,4610,1281
+m_e,control_air,4485,1327,4613,1407
+m_e,air_clr_c_f_w_out_temp_1,4575,2541,4711,2625
+m_e,air_clr_c_f_w_out_temp_2,4777,2533,4911,2623
